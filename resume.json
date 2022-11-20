@@ -1,0 +1,454 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jérôme Magnier",
+    "label": "Développeur web PHP fullstack",
+    "image": "jerome.jpeg",
+    "email": "majer78@yahoo.fr",
+    "phone": "",
+    "url": "https://j3rom3m.github.io/",
+    "summary": "Développeur web et web mobile (PHP, Symfony, Laravel, Lumen, AWS, Github, Linux, JavaScript, React.js, VueJS, CSS 3, HTML 5). Passionné par le développement web.\nToujours en veille technologique de ce qu'il se fait dans le monde de l'informatique, des télécommunication, du web, l'électronique et la robotique.\nJe m’intéresse également à la sécurité informatique, le software, le hardware (desktop et mobile). \n",
+    "location": {
+      "countryCode": "FR",
+      "address": "Rambouillet (78) - France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "https://www.linkedin.com/in/jerome-magnier-78120/",
+        "url": "https://www.linkedin.com/in/jerome-magnier-78120/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Itool",
+      "position": "Développeur web",
+      "startDate": "2021-10-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "logiciel SaaS grands comptes gestion commerciale et comptabilité",
+      "url": "https://www.linkedin.com/company/itool-systems/",
+      "location": "Rambouillet, Île-de-France, France"
+    },
+    {
+      "name": "EBP Informatique",
+      "position": "Technicien qualité",
+      "startDate": "2018-09-30",
+      "endDate": "2021-11-30",
+      "highlights": [],
+      "summary": "Assurance qualité logiciel, travail en agilité.\nProjet Mroad DMS pour les garagistes.\nrédaction de scénarios de tests utilisateur, déroulé manuel des scénarios via Microsoft Azure Devops.\nCréation de tests automatisés via Ranorex pour la gestion de la non régression.",
+      "url": "https://www.linkedin.com/company/ebp-informatique/",
+      "location": "Rambouillet, Île-de-France, France"
+    },
+    {
+      "name": "Ecooperation",
+      "position": "backend Web Developer",
+      "startDate": "2021-01-31",
+      "endDate": "2021-02-28",
+      "highlights": [],
+      "summary": "lead backend développeur Symfony API restfull\n\ncréation d'une API via Symfony 5.2, création et maintenance de la base de données MySQL.\nCréation de maquettes responsives, réalisation complète du MCD et du dictionnaire de données.\ncollaboration pour l'établissement du cahier des charges et des User Stories, validation de la charte graphique.\nMise en place de l'API sur AWS. \nGit Master de l'équipe, gestion des projets front et back sur github.\nValidation des pull request, revues de code.\nMise en place d'un back office en PHP pour la gestion et la validation du contenu des tables avec des accès utilisateurs spécifiques.\n\nprésentation de projet en live stream public sur Youtube.",
+      "url": "",
+      "location": "France"
+    },
+    {
+      "name": "Ebp MeCa",
+      "position": "Consultant support technique",
+      "startDate": "2014-03-31",
+      "endDate": "2018-08-31",
+      "highlights": [],
+      "summary": "Technicien assistance et suivi aux utilisateurs du DMS Auto ainsi que revendeurs agréés et partenaires, également technicien qualité logiciel sur la gamme des produits.",
+      "url": "https://www.linkedin.com/company/ebp-meca/",
+      "location": "Rambouillet"
+    },
+    {
+      "name": "profil Technology",
+      "position": "technicien support et qualité logicielle",
+      "startDate": "2007-05-31",
+      "endDate": "2014-03-31",
+      "highlights": [],
+      "summary": "Développement .NET C# tel que des services Windows avec gestions de sauvegardes programmées reléguées sur Arc Serve.\nCréation d'un automate de test piloté en automatique ou débraillé en manuel sur un service Windows déployé sur un banc de test.\nQualité logiciel, rédaction de cahier de recette, traitement de la qualité.\ntraitement à distance de certain prospect,\nSuivi client assistance.",
+      "url": "",
+      "location": "Montrouge"
+    },
+    {
+      "name": "Editions Profil",
+      "position": "Technicien support",
+      "startDate": "2005-07-31",
+      "endDate": "2007-05-31",
+      "highlights": [],
+      "summary": "Assistance aux utilisateurs sur les solutions distribuées par l'entreprise allant de Mandriva au principal logiciel qui est Bitdefender solutions Antivirus. \nEn passant par les produits DriveClone et VirtualDrive, ainsi que la gamme des produits Magix",
+      "url": ""
+    },
+    {
+      "name": "Panda Software",
+      "position": "Technicien de support technique",
+      "startDate": "2004-12-31",
+      "endDate": "2005-12-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/panda-software/"
+    },
+    {
+      "name": "Collège vallée du gappeau",
+      "position": "surveillant vie scolaire - technicien informatique",
+      "startDate": "2003-12-31",
+      "endDate": "2004-12-31",
+      "highlights": [],
+      "url": "",
+      "location": "Sollies pont"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Webitech Paris",
+      "area": "Ingénierie informatique",
+      "studyType": "Bachelor - Concepteur développeur d'applications",
+      "startDate": "2021-10-31",
+      "endDate": "2022-10-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ecole O'clock",
+      "area": "Programmation / développeur informatique, général",
+      "studyType": "Bac+2 - développeur web et web mobile",
+      "startDate": "2020-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Chambre de commerce et d'industrie du VAR",
+      "area": "Programmation / développeur informatique, général",
+      "studyType": "BTS Informatique de Gestion option développeur d'application",
+      "startDate": "2000-12-31",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "html fundamenrals courses",
+      "issuer": "SoloLearn",
+      "url": "https://www.sololearn.com/Certificate/1014-1017140/pdf"
+    },
+    {
+      "name": "PHP tutorial",
+      "issuer": "SoloLearn",
+      "url": "https://www.sololearn.com/Certificate/1059-1017140/pdf/"
+    },
+    {
+      "name": "C# .NET 3.0 basique à avancée",
+      "issuer": "Learning Tree International"
+    },
+    {
+      "name": "JavaScript fundamentals",
+      "issuer": "grasshopper.app"
+    },
+    {
+      "name": "JavaScript\n\nVue.js quiz\n\nDébutant\n",
+      "issuer": "SkillValue",
+      "startDate": "2020-03-31",
+      "url": "https://skillvalue.com/fr/certificate/TFLYP7inKC14cj5mu6OnSCNLZ1PkryfCLwRO4g3QkIQ0HauZQKrtso5Hv2Hh"
+    },
+    {
+      "name": "PHP\nDéveloppement PHP5 quiz\nMoyen",
+      "issuer": "SkillValue",
+      "url": "https://skillvalue.com/fr/certificate/O40fRq2mYzGkpcCZAATotwhc7kMmpLprIEERy0bywiOTHons8G1SCNXEDbZW"
+    },
+    {
+      "name": "Découvrir Visual Studio Team Services",
+      "issuer": "LinkedIn",
+      "startDate": "2020-04-30",
+      "url": "http://www.linkedin.com/learning/decouvrir-visual-studio-team-services"
+    },
+    {
+      "name": "L'essentiel de PHP 7",
+      "issuer": "LinkedIn",
+      "startDate": "2020-05-31",
+      "url": "http://www.linkedin.com/learning/l-essentiel-de-php-7"
+    },
+    {
+      "name": "L'essentiel de Visual Studio Code",
+      "issuer": "LinkedIn",
+      "startDate": "2020-06-30",
+      "url": "http://www.linkedin.com/learning/l-essentiel-de-visual-studio-code"
+    },
+    {
+      "name": "Certification Opquast® : Maitrise de la qualité en projet web",
+      "issuer": "Opquast",
+      "endDate": "2026-04-30",
+      "startDate": "2021-04-30",
+      "url": "https://directory.opquast.com/fr/certificat/SZJ3DP/"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement web back-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement de logiciel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MariaDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sécurité",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assistance utilisateur",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web mobile",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation orientée objet (POO)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Informatique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tests manuels",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Applications web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tests de régression",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Antivirus",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active Directory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assistance technique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automatisation des tests",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sécurité informatique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LAMP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft devops",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft sql",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assurance qualité",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WAMP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Foundation Server (TFS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Méthodes agiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "bulma css",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "teams",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement web",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
